@@ -1,3 +1,5 @@
+# MEDIUM BLOG POST: https://medium.com/@malavhirenshah/decoding-data-without-using-machine-learning-well-almost-bbc6ccb32c67
+
 # Airbnb-August-2020-Listings-Austin
 Assessing, Cleaning, Analyzing, Modeling and Visualize the Airbnb Austion Listing data from August 2020
 
