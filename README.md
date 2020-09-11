@@ -27,6 +27,10 @@ I do end the project with a Machine Learning model that answers prediction quest
 
 ### 3. File descriptions
 
+* airbnb_august.ipynb - Jupyter notebook containing the code for everything from assessing, cleaning, analyzing, modeling and visualizing the airbnb dataset.  
+* listings_2.csv - Airbnb August 2020 Austin dataset.
+* TxDOT_City_boundaries. * - all files related to the map that is created for Q2 (geopandas and shapely)
+
 ### 4. Analysis
 
 The airbnb_august.ipynb contains analysis for the four business and real life questions that have been posted with a logical layout of the explanation of all of them. The four questions that I answer are:
